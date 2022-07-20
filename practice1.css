@@ -1,0 +1,358 @@
+https://github.com/Maheen-Aslam/DemoProject
+body{
+    padding-top: 0px;
+    margin: 0px;
+    align-content: center;
+    font-display: center;
+}
+.header{
+ height:350px ;
+ width: 1080px;
+ background-image: url("C:/Users/HP/Downloads/Template_images/parallax1.jpg");
+ background-position: 300%;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+a{
+    text-align: inline;
+    padding: 10px;
+    word-spacing: 15px;
+    font-size: x-small;
+    color: black;
+}
+.heading{
+    text-align: center;
+    text-size-adjust: 5px;
+    text-decoration: double;
+    height: 200px;
+    padding-top: 150px;
+   color: white;
+   font-family:arial,sans-serif;
+   letter-spacing: 3px;
+   font-weight: lighter;
+  
+}
+.middle{
+    font-family: "calibri",sans-serif;
+    font-weight: lighter;
+    font-size: x-large;
+    text-align: center;
+    word-spacing: 3px; 
+}
+.paragraph1{
+    text-align: center;
+    font-size: medium;
+}
+.paragraph2{
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 0%;
+    padding-top: 2%;
+    text-align: left;
+    border-spacing: 1px;
+    line-height: 1.6;
+    font-size: small;
+}
+.photoofMe{
+    height: 200px;
+    width: 300px;
+    border-image: none;
+    background-image: none;
+    line-height: 1.8;
+}
+.row1{
+    
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 0%;
+    padding-top: 2%;
+    border-spacing: 1px;
+}
+table{
+    text-align: center;
+    padding-left: 15%;
+}
+.paragraph3{
+    text-align: center;
+    border: 2px;
+    border-spacing: 3px;
+}
+.paragraph4{
+    text-align: left;
+    border: 3px;
+    padding-left: 150px;
+    letter-spacing: 3px;    
+    line-height: 1.8;
+}
+.range90{
+   margin-left:150px;
+   margin-right: 300px;
+   margin-bottom: 0px;
+   border-style:hidden;
+   text-align: center ;
+   background: linear-gradient(to right, rgb(98, 98, 101) 90%, rgb(242, 242, 234) 10%);
+   height: 25px;
+   width: 75%;
+   color: white;
+}
+.range80{
+    margin-left:150px;
+    margin-right: 300px;
+    margin-bottom: 0px;
+    border-style:hidden;
+    text-align: center ;
+    background: linear-gradient(to right, rgb(83, 83, 86) 80%, rgb(242, 242, 234) 20%);
+    height: 25px;
+    width: 75%;
+    color: white;
+ }
+ .range70{
+    margin-left:150px;
+    margin-right: 300px;
+    margin-bottom: 0px;
+    border-style:hidden;
+    text-align: center ;
+    background: linear-gradient(to right, rgb(97, 97, 99) 60%, rgb(242, 242, 234) 40%);
+    height: 25px;
+    width: 75%;
+    color: white;
+ }
+.secound_menu{
+ background-color: rgb(96, 90, 90);
+ margin-top: 1000px;
+ color: white;
+ position: relative;
+ height:70px;
+ width:1090px;
+}
+
+.partners{
+     height: 20px;
+     width:20px;
+     padding-left: 156px;
+     padding-top: 20px;
+     position: absolute;
+     display: inline-block;
+}
+.projectDone{
+     height: 20px;
+     width:20px;
+     padding-left: 406px;
+     padding-top: 20px;
+     position: absolute;
+     display: inline-block;
+     font-size: small;
+}
+.HappyClients{
+    height: 20px;
+    width:20px;
+    padding-left: 606px;
+    padding-top: 20px;
+    position: absolute;
+    display: inline-block;
+    font-size: small;
+}
+.Meetings{
+    height: 20px;
+    width:20px;
+    position: absolute;
+    display: inline-block;
+    padding-left: 866px;
+    padding-top: 20px;
+    font-size: small;
+}
+.lastprofile{
+    background-image: url("C:/Users/HP/Downloads/Template_images/parallax2.jpg");
+    height:350px ;
+    width: 1090px;
+    background-position: 300%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px;
+}
+.paragraph5{
+    margin: 0px;
+    font-family: "calibri",sans-serif;
+    text-align: center;
+    border: 2px;
+    border-spacing: 3px;
+    color: white;
+    letter-spacing: 4px;
+    padding-top: 200px;
+}
+.paragraph6{
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 0%;
+    padding-top: 2%;
+    text-align: center;
+    border-spacing: 1px;
+    line-height: 1.8;
+    font-size: small;
+}
+.last-table{
+    height:600px;
+    width: 600px;
+    margin:1px;
+    padding-left: 140px;
+    padding-right: 0px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    position:absolute;
+}
+.table2{
+  width: 100px;
+  position: absolute;
+  height: auto;
+  width: 100px;
+  display: inline-block;
+  top:3px;
+  left: 280px;
+}
+.table3{
+  position: absolute;
+  height: auto;
+  width: 100px;
+  display: inline-block;
+  top:3px;
+  left: 390px;
+}
+.table4{
+    position: absolute;
+    height: auto;
+    width: 100px;
+    display: inline-block;
+    top:3px;
+    left: 500px;
+  }
+.table5{
+    position: absolute;
+    height: auto;
+    width: 100px;
+    display: inline-block;
+    top:3px;
+    left: 610px;
+  }
+  .table6{
+    position: absolute;
+    height: auto;
+    width: 100px;
+    display: inline-block;
+    top:90px;
+    left: 280px;
+  }
+  .table7{
+    position: absolute;
+    height: auto;
+    width: 100px;
+    display: inline-block;
+    top:90px;
+    left: 390px;
+  }
+  .table8{
+    position: absolute;
+    height: auto;
+    width: 100px;
+    display: inline-block;
+    top:90px;
+    left: 500px;
+  }
+  .table9{
+    position: absolute;
+    height: auto;
+    width: 100px;
+    display: inline-block;
+    top:90px;
+    left: 610px;
+  }
+  .button{
+   
+    position: absolute;
+    height: auto;
+    width: 100px;
+    display: inline-block;
+    top:250px;
+    left: 480px;
+    cursor: pointer;
+    padding: large;
+  }
+  .contact{
+    color: white;
+    font-size: xx-large;
+    letter-spacing: 8px;
+    font-family:"calibri",sans-serif;
+    text-align: center;
+    font-weight: lighter;
+    padding-top: 150px;
+  }
+  .contact-background{
+      background-image: url("C:/Users/HP/Downloads/Template_images/parallax3.jpg");
+      background-position: 900%;
+      background-repeat: no-repeat;
+      background-size: cover;
+      height:350px ;
+      width: 1090px;
+      bottom:0px;
+      top:400px;
+      position: relative;
+  }
+  .text{
+    color: grey;
+    text-align:center;
+    border:2px;
+    padding-top: 450px;
+    line-height: 2.3;
+  }
+formblock{
+    height:600px;
+    width:600px;
+    position: absolute;
+}
+.img8{
+    width:150px;
+    border-radius: 8%;
+}
+.last-img{
+    border:2px;
+    left:300px ;
+    position: relative;
+}
+.formblock2{
+  position: absolute;
+  left: 500px;
+  top:2940px;
+  display: inline;
+  font-size:small;
+  color: grey;
+  line-height: 0.3;
+}
+.btn {
+    -webkit-border-radius: 1;
+    -moz-border-radius: 1;
+    border-radius: 1px;
+    font-family: Courier New;
+    color: #1a171a;
+    font-size: 10px;
+    background: #f7f7f7;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    border-color:white;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+  .lastBlock{
+       background-color: darkgray;
+       padding-left:495px;
+       padding-right: auto;
+       padding-top: 5px;
+       padding-bottom: auto;
+       font-size: xx-small;
+  }
